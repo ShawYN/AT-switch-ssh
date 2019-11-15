@@ -5,4 +5,5 @@ This scipt scans all the files under one specified folder, transfers each of the
 
 # Attention
 1.Filename needs to be exactly same as the hostname of the target switch.
+
 2.Since filename is used to determine the target switch here, every host can only receive one file at one time.
